@@ -1,4 +1,4 @@
-# Praktikum-Software-Engineering
+# Software Engineering Project
 // This file is a copy of software engineering project based on a Segway configurated with Kinect Depth Camera.
 
 // According to given specifications, a software program should be developed to support the autonomous driving of the Segway. The autonoumous driving works mainly by searching, recognizing and following a marker, which will be hanged on a car in front of the Segway. (More detailed specifications see the file /Spezifikation/)
